@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeo\\source\\repos\\MyTeamProject\\MyTeamProject\\MyTeamProject.csproj": {}
+    "C:\\Users\\Josh\\Desktop\\GC class repo\\MyGroupProject\\MyTeamProject\\MyTeamProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeo\\source\\repos\\MyTeamProject\\MyTeamProject\\MyTeamProject.csproj": {
+    "C:\\Users\\Josh\\Desktop\\GC class repo\\MyGroupProject\\MyTeamProject\\MyTeamProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeo\\source\\repos\\MyTeamProject\\MyTeamProject\\MyTeamProject.csproj",
+        "projectUniqueName": "C:\\Users\\Josh\\Desktop\\GC class repo\\MyGroupProject\\MyTeamProject\\MyTeamProject.csproj",
         "projectName": "MyTeamProject",
-        "projectPath": "C:\\Users\\Jeo\\source\\repos\\MyTeamProject\\MyTeamProject\\MyTeamProject.csproj",
-        "packagesPath": "C:\\Users\\Jeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeo\\source\\repos\\MyTeamProject\\MyTeamProject\\obj\\",
+        "projectPath": "C:\\Users\\Josh\\Desktop\\GC class repo\\MyGroupProject\\MyTeamProject\\MyTeamProject.csproj",
+        "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josh\\Desktop\\GC class repo\\MyGroupProject\\MyTeamProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

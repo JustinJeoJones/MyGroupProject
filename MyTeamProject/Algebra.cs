@@ -14,7 +14,7 @@ namespace MyTeamProject
         }
         public int Subber(int x, int y)
         {
-            return x + y;
+            return x - y;
         }
         public int Multi(int x, int y)
         {

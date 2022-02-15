@@ -1,0 +1,15 @@
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\MyTeamProject.exe
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\MyTeamProject.deps.json
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\MyTeamProject.runtimeconfig.json
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\MyTeamProject.dll
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\ref\MyTeamProject.dll
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\bin\Debug\net6.0\MyTeamProject.pdb
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.AssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.dll
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\ref\MyTeamProject.dll
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.pdb
+C:\Users\Josh\Desktop\GC class repo\MyGroupProject\MyTeamProject\obj\Debug\net6.0\MyTeamProject.genruntimeconfig.cache
